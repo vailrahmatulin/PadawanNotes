@@ -11,8 +11,12 @@
             "id": "6de51094b8ef0714",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -140,15 +148,15 @@
   },
   "active": "6de51094b8ef0714",
   "lastOpenFiles": [
+    "README.md",
+    "Арифметические действия в Python.md",
     "Фишки Python.md",
     "Python.md",
     "Pasted image 20230209124619.png",
-    "Арифметические действия в Python.md",
     "Типы чисел в Python.md",
     "Математические функции в Python.md",
     "Именование переменных.md",
     "Pasted image 20230209124449.png",
-    "Pasted image 20230209122745.png",
-    "Pasted image 20230209122802.png"
+    "Pasted image 20230209122745.png"
   ]
 }
