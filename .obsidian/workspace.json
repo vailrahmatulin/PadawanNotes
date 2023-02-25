@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "169fec96fd43f749",
+        "id": "264390ef7f2ff89e",
         "type": "tabs",
         "children": [
           {
-            "id": "4fa59053e314c29e",
+            "id": "d86898ffb0d08377",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Арифметические действия в Python.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Арифметические действия в Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Арифметические действия в Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,17 +118,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Арифметические действия в Python.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,17 +137,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "4fa59053e314c29e",
+  "active": "d86898ffb0d08377",
   "lastOpenFiles": [
-    "Типы чисел в Python.md",
-    "Именование переменных в Python.md",
-    "Арифметические действия в Python.md",
-    "Изображения/Pasted image 20230209122802.png",
+    "Встроенные функции Python/Функция min().md",
+    "Встроенные функции Python/Функция max() для нахождения максимального значения.md",
+    "Встроенные функции Python/Функция abs() для получения модуля числа.md",
+    "Встроенные функции Python/Функция round().md",
+    "Встроенные функции Python/Функция pow().md",
     "Математические функции в Python.md",
-    "README.md",
-    "Фишки Python.md",
-    "Python.md",
-    "Изображения/Pasted image 20230209124619.png",
-    "Pasted image 20230209124449.png"
+    "Именование переменных в Python.md",
+    "Без названия.canvas",
+    "Арифметические действия в Python.md",
+    "2023-02-15.md"
   ]
 }
